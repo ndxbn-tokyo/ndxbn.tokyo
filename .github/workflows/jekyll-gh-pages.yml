@@ -27,8 +27,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Upload artifact for S3 deploy
-        uses: actions/upload-artifact@
       - name: Upload artifact for github-pages native
         uses: actions/upload-pages-artifact@v3
 
