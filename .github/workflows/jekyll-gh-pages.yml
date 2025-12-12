@@ -48,6 +48,10 @@ jobs:
         with:
           aws-region: 'ap-northeast-1'
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
-      - name: Sync _site folder to S3
+      - name: Downlaod website files artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: github-pages
+      - name: Deploy to AWS S3
         run: |
-          aws s3 sync _site s3://ndxbn.tokyo/ --delete
+          aws s3 sync . s3://ndxbn.tokyo/ --delete
