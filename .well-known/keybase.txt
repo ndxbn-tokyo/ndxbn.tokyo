@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ndxbn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ndxbn.tokyo
+  * I am ndxbn (https://keybase.io/ndxbn) on keybase.
+  * I have a public key ASD_vi8R46zTgVlVdfBSXeJohV761h7Sqk3efQywdWg34Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ffbe2f11e3acd381595575f0525de268855efad61ed2aa4dde7d0cb0756837e10a",
+      "host": "keybase.io",
+      "kid": "0120ffbe2f11e3acd381595575f0525de268855efad61ed2aa4dde7d0cb0756837e10a",
+      "uid": "8b166a311be2379d8a2213e878e48319",
+      "username": "ndxbn"
+    },
+    "merkle_root": {
+      "ctime": 1765535981,
+      "hash": "2582bacf331cac75c00abb9b4cdc9702b9ea43d74c75379e41098727e2864a5af0c47cdd4cba130556b089688931add35185b6676501b15e807966dbf7fcfa01",
+      "hash_meta": "edf08393a6f25ae8cdd3f516d895198e3d2a6770dfa55db396256f263959d4ca",
+      "seqno": 27287862
+    },
+    "service": {
+      "entropy": "7SwGyN6SWg+w4wAtMor/5d4i",
+      "hostname": "ndxbn.tokyo",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1765536036,
+  "expire_in": 504576000,
+  "prev": "ddeaa1125a43d6f672ed7b1d10bdce5a9ab48575d21dcdfd92996fa5cc7a56b5",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/74vEeOs04FZVXXwUl3iaIVe+tYe0qpN3n0MsHVoN+EKp3BheWxvYWTESpcCCsQg3eqhElpD1vZy7XsdEL3OWpq0hXXSHc39kplvpcx6VrXEIJn5YwEqh2DAYvg+vL/U0ptBMWwA1wyHGy6HV88IGM3NAgHCo3NpZ8RAFH947Iqd2ffEszcIIhd+yupFLx6EylAgX0CaXZ4roLAEfRayyC3VPY9LwfBhzdDi0y1OtBLL1pgrsG00V7hkA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIImq5WgscfyAG+ihlW1EXuPahCOJLSD5PJK/KORH2NKJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ndxbn
+
+==================================================================
